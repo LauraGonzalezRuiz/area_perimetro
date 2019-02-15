@@ -26,3 +26,6 @@ print(c.calculo_perimetro())
 
 r = Circulo(2)
 print(r.calculo_area())
+
+h = Circulo(3)
+print(c.calculo_perimetro())
